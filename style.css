@@ -1,0 +1,18 @@
+.products::-webkit-scrollbar{
+    display: none;
+}
+
+.categories::-webkit-scrollbar{
+    display: none;
+}
+
+.populars::-webkit-scrollbar{
+    display: none;
+}
+
+.shader{
+    background: linear-gradient(to right bottom, #69628a, #040309);
+}
+.shader:hover {
+    background: linear-gradient(to right bottom, #7d769e, #2a2648);
+}
